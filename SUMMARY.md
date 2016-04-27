@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [What is a package?](what-is-a-package.md)
 * [Theory and Design](theory-and-design/README.md)
   * [Dependency Hell](theory-and-design/dependency-hell.md)
