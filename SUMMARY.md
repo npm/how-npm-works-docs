@@ -1,7 +1,8 @@
 # Summary
 
-* [What is a package?](what-is-a-package.md)
 * [Theory and Design](theory-and-design/README.md)
+  * [What is a package?](theory-and-design/what-is-a-package.md)
+  * [File and Directory Names](theory-and-design/file-and-directory-names.md)
   * [Dependency Hell](theory-and-design/dependency-hell.md)
   * [The Node Module Loader](theory-and-design/the-node-module-loader.md)
 * [npm2](npm2/README.md)
