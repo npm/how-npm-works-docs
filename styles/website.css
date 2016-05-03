@@ -4,7 +4,7 @@
 
 .book .book-summary ul.summary:before {
   content: '';
-  background-image: url('../gitbook/images/npm-logo.svg');
+  background-image: url('../images/npm-logo.svg');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
