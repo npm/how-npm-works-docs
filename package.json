@@ -1,24 +1,24 @@
 {
-  "name": "installation-setup-docs",
+  "name": "how-npm-works-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "gitbook for how npm works docs",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook build",
-    "start": "gitbook serve"
+    "start": "gitbook serve",
+    "build": "gitbook build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/installation-setup-docs.git"
+    "url": "git+https://github.com/npm/how-npm-works-docs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/installation-setup-docs/issues"
+    "url": "https://github.com/npm/how-npm-works-docs/issues"
   },
-  "homepage": "https://github.com/npm/installation-setup-docs#readme",
-  "devDependencies": {
+  "homepage": "https://github.com/npm/how-npm-works-docs#readme",
+  "dependencies": {
     "gitbook-cli": "^2.1.3"
   }
 }
