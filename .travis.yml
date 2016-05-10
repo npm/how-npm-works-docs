@@ -3,6 +3,7 @@ node_js:
 - 5
 - 6
 script:
+- gitbook install
 - npm run build
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash

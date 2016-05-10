@@ -2,6 +2,15 @@
   background-color: #2a333c;
 }
 
+header {
+  position: relative;
+  z-index: 999;
+}
+
+.book-search {
+  z-index: -999;
+}
+
 .book .book-summary ul.summary:before {
   content: '';
   background-image: url('../gitbook/images/npm-logo.svg');
