@@ -4,6 +4,7 @@
   "description": "gitbook for how npm works docs",
   "main": "index.js",
   "scripts": {
+    "install": "gitbook install",
     "start": "gitbook serve",
     "build": "npm run build:styles && npm run concat:styles && gitbook build",
     "build:styles": "dr-frankenstyle ./styles",
